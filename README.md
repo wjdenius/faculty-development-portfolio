@@ -28,7 +28,7 @@ A single self-contained HTML file — no build step, no dependencies, no externa
 
 ## About
 
-Made by William Denius — instructional designer and performance consultant, and a doctoral candidate in Instructional Design and Performance Technology at the University of West Florida. More work at https://williamdenius.netlify.app.
+Made by William Denius — instructional designer and performance consultant, and a doctoral candidate in Instructional Design and Performance Technology at the University of West Florida. See more work at https://williamdenius.netlify.app.
 
 ## Note
 
